@@ -1,4 +1,6 @@
 # presentations
+OJUG: [Elixir & Phoenix, Getting My Fullstack Back](https://www.youtube.com/watch?v=C7y4Bs9Jbho)
+
 GR8Conf: [Custom DSL for Jenkins CI Pipelines](https://github.com/jshickey/GR8Conf-2017-Jenkins-Pipeline-DSL-Slides)
 
 GR8Conf: [Lazybones Project Starter](https://jshickey.github.io/GR8Conf-2017-Lazybones-Slides/build/asciidoc/html5/slides.html#/using-lazybones-for-enterprise-starter-projects)
