@@ -1,4 +1,5 @@
 # presentations
+GR8Conf: [Lazybones Project Starter](https://jshickey.github.io/GR8Conf-2017-Lazybones-Slides/build/asciidoc/html5/slides.html#/using-lazybones-for-enterprise-starter-projects)
 
 Gradle Summit - [Leveraging Gradle and the Jenkins Groovy DSL for a CI Pipeline at Mutual of Omaha](https://youtu.be/1mTve31Svh8)
 
