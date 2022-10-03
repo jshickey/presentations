@@ -3,6 +3,8 @@ OJUG: [Elixir & Phoenix, Getting My Fullstack Back](https://www.youtube.com/watc
 
 OJUG: [Lightning Talk CI Pipeline DSL, Taking Advantage of Higher Order Functions](https://youtu.be/7bJ_YfAXgA8?t=619)
 
+MN Conf: [Data Provence Tool, Functional Programming](https://github.com/jshickey/groovyfx-prodsupport-tool/blob/master/GR8%20-%20Data%20Provenance%20_%20GroovyFX.pdf)
+
 GR8Conf: [Custom DSL for Jenkins CI Pipelines](https://github.com/jshickey/GR8Conf-2017-Jenkins-Pipeline-DSL-Slides)
 
 GR8Conf: [Lazybones Project Starter](https://jshickey.github.io/GR8Conf-2017-Lazybones-Slides/build/asciidoc/html5/slides.html#/using-lazybones-for-enterprise-starter-projects)
